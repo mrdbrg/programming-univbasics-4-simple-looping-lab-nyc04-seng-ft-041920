@@ -33,6 +33,6 @@ def return_string_array(array)
   new_arr = []
   
   while array[counter]  do
-    new_arr = array[counter].to_s
+    new_arr.push(array[counter].to_s)
   end
 end

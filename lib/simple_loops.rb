@@ -30,8 +30,9 @@ end
 
 def return_string_array(array)
   counter = 0
+  new_arr = []
   
-  while  do
+  while array[counter]  do
     
   end
 end

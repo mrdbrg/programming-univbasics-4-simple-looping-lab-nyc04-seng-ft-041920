@@ -19,7 +19,7 @@ def loop_message_n_times(str, value)
   end
 end
 
-def output_array(array) do 
+def output_array(array) 
   counter = 0
   
   while counter < array.length do

@@ -33,8 +33,7 @@ def return_string_array(array)
   new_arr = []
   
   while array[counter]  do
-    element = array[counter].to_s
-    new_arr.push(element)
+    new_arr.push(array[counter].to_s)
     counter += 1
   end
   
